@@ -13,7 +13,7 @@ conda activate demistfy
 
 ### Data
 
-You can download the datasets that we consider in the paper from respective links: <a href="http://cvlab.postech.ac.kr/research/SPair-71k/">Spair</a>, <a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">CUB</a>, <a href="https://github.com/benjiebob/StanfordExtra">Stanforddogs</a>, <a href="https://github.com/prinik/AwA-Pose">Awa-Pose</a>, <a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/">AFLW</a>. 
+You can download the datasets that we consider in the paper from respective links: <a href="http://cvlab.postech.ac.kr/research/SPair-71k/">Spair</a>, <a href="http://www.vision.caltech.edu/datasets/cub_200_2011/">CUB</a>, <a href="https://github.com/benjiebob/StanfordExtra">Stanforddogs</a>, <a href="https://github.com/prinik/AwA-Pose">Awa-Pose</a>, <a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/">AFLW</a>. 
 
 For evaluation, you need copy put random_pair.txt file from pairs directory to respective dataset folder. Final folder structure should be like below;
 
